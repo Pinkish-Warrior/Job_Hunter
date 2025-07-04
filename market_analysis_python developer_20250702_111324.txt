@@ -1,0 +1,4 @@
+Job Market Analysis: python developer in london
+Generated: 2025-07-02 11:13:24.455554
+Total jobs: 50
+Average salary: £66,234
