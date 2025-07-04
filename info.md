@@ -6,6 +6,7 @@ http://api.adzuna.com/v1/api/jobs/gb/top_companies?app_id={YOUR API ID}&app_key=
 
 The response object contains a leaderboard array of the 5 top employers:
 
+```json
 {
   "__CLASS__": "Adzuna::API::Response::TopCompanies",
   "leaderboard": [
@@ -41,3 +42,4 @@ The response object contains a leaderboard array of the 5 top employers:
     }
   ]
 }
+```
