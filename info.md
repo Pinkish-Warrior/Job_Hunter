@@ -1,8 +1,8 @@
 # Top Companies API Example
 
-```http
-http://api.adzuna.com/v1/api/jobs/gb/top_companies?app_id={YOUR API ID}&app_key={YOUR API KEY}&what=cook&content-type=application/json
-```
+
+  [http://api.adzuna.com/v1/api/jobs/gb/top_companies?app_id={YOUR API ID}&app_key={YOUR API KEY}&what=cook&content-type=application/json](http://api.adzuna.com/v1/api/jobs/gb/top_companies?app_id={YOUR%20API%20ID}&app_key={YOUR%20API%20KEY}&what=cook&content-type=application/json)
+
 
 The response object contains a leaderboard array of the 5 top employers:
 
